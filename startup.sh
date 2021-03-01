@@ -1,0 +1,1 @@
+rasa run -p $PORT --cors "*" --debug
